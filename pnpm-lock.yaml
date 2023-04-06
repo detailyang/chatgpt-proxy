@@ -1,4 +1,4 @@
-lockfileVersion: 5.4
+lockfileVersion: 5.3
 
 specifiers:
   clipboard: ^2.0.11
@@ -9,10 +9,10 @@ specifiers:
 
 dependencies:
   clipboard: 2.0.11
-  next: 13.2.3_biqbaboplfbrettd7655fr4n2y
+  next: 13.2.3_react-dom@18.2.0+react@18.2.0
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
-  react-toastify: 9.1.1_biqbaboplfbrettd7655fr4n2y
+  react-toastify: 9.1.1_react-dom@18.2.0+react@18.2.0
 
 packages:
 
@@ -191,7 +191,7 @@ packages:
     hasBin: true
     dev: false
 
-  /next/13.2.3_biqbaboplfbrettd7655fr4n2y:
+  /next/13.2.3_react-dom@18.2.0+react@18.2.0:
     resolution: {integrity: sha512-nKFJC6upCPN7DWRx4+0S/1PIOT7vNlCT157w9AzbXEgKy6zkiPKEt5YyRUsRZkmpEqBVrGgOqNfwecTociyg+w==}
     engines: {node: '>=14.6.0'}
     hasBin: true
@@ -261,7 +261,7 @@ packages:
       scheduler: 0.23.0
     dev: false
 
-  /react-toastify/9.1.1_biqbaboplfbrettd7655fr4n2y:
+  /react-toastify/9.1.1_react-dom@18.2.0+react@18.2.0:
     resolution: {integrity: sha512-pkFCla1z3ve045qvjEmn2xOJOy4ZciwRXm1oMPULVkELi5aJdHCN/FHnuqXq8IwGDLB7PPk2/J6uP9D8ejuiRw==}
     peerDependencies:
       react: '>=16'
